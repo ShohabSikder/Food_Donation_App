@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FeedMe</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment"></string>
+    <string name="about">HOW TO USE?</string>
+    <string name="aboutus">FeedMe aims to combat the issue of hunger in Bangladesh. We strongly believe in our motto that every individual, regardless of their background, should not go to bed on an empty stomach. FeedMe has partnered with restaurants, organizations, and individuals like you to help provide hygienic food to those in need.\n\n<b>INSTRUCTIONS</b>\n\n<b>Step 1:</b> If you are a donor, add your details in the donor section.\n\n<b>Step 2:</b> Donors can select the number of plates. By "number of plates," we mean that the donor is donating food items such as rice, wheat, cereals, pulses, fruits, or meat sufficient for one full plate.\n\n<b>Step 3:</b> If you are a group/organization interested in distributing food, visit the receiver section and request donations through phone calls.</string>
+
+</resources>
